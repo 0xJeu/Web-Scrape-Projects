@@ -1,4 +1,4 @@
-# Data Scraping Project #1 (Data_Scraper.py)
+# Data Scraping Project (Data_Scraper.py)
 
 This Python project allows users to perform data scraping by specifying a website link and a CSS selector for the target element they want to scrape. The code retrieves the HTML content of the provided link, parses it using BeautifulSoup library, and extracts data based on the specified CSS selector.
 
