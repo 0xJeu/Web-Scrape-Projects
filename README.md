@@ -1,5 +1,3 @@
-Sure! Here's an updated version of the README.md file without the License section:
-
 # Data Scraping Project
 
 This Python project allows users to perform data scraping by specifying a website link and a CSS selector for the target element they want to scrape. The code retrieves the HTML content of the provided link, parses it using BeautifulSoup library, and extracts data based on the specified CSS selector.
